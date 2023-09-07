@@ -41,7 +41,7 @@ function App() {
         <p data-testid="myTrack" className="font-bold mt-3">
           Track: <span className="font-normal"> Frontend</span>
         </p>
-        <a data-testid="githubURL" href="https://github.com/Kaodily/stage-one">
+        <a data-testid="githubURL" href="https://github.com/Kaodily/stage-one" target="_blank" rel="noreferrer">
           <button className="w-[100%] p-4 rounded-md mt-3 hover:bg-black hover:text-white border-2 border-black">
             GitHub URL
           </button>
